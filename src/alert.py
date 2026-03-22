@@ -12,7 +12,7 @@ from datetime import datetime
 
 # ── Fill these in ─────────────────────────────────────────────────────────────
 EMAIL_SENDER   = "sijomariyam@gmail.com"
-EMAIL_PASSWORD = "oxennnuqbojewmkq"   # Google App Password, NOT login password
+EMAIL_PASSWORD = ""   # Google App Password, NOT login password
 EMAIL_RECEIVER = "sijajoseph11c@gmail.com"
 
 # Twilio SMS (optional — free trial at twilio.com)
