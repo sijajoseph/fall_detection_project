@@ -1,0 +1,28 @@
+# Virtual environment — never push this
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large model files (optional — comment out if you want to push them)
+models/fall_detector.h5
+models/fall_detector.keras
+models/fall_detector.tflite
+models/scaler.pkl
+models/pose_landmarker.task
+
+# Raw dataset files (too large for GitHub)
+data/raw/
+
+# Generated files
+data/processed/
+
+# VS Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
